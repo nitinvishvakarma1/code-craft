@@ -99,7 +99,6 @@ public class ReadInput {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Height: " + height + " meters");
-        
         sc.close();
     }
 }
