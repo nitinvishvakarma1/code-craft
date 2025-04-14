@@ -22,6 +22,8 @@ main: The name of the method. It’s the entry point of a Java program, where ex
 - `out:` A static field in the System class, of type PrintStream. It represents the standard output stream, typically the console.
 - `println:` A method of the PrintStream class (accessed via System.out). It prints the given argument to the console and adds a new line.
 
+
+
 ### 💻 Code:
 
 ```java
